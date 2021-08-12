@@ -1,0 +1,154 @@
+2021-08-08 18:23:29,654  INFO [main] eCommerceCucumberAutomation:62 - ************* Signout application *****************
+2021-08-08 18:25:16,757  INFO [main] eCommerceCucumberAutomation:62 - ************* Signout application *****************
+2021-08-08 18:41:11,251  INFO [main] eCommerceCucumberAutomation:73 - ************* Launching Browser *****************
+2021-08-08 18:41:11,274  INFO [main] eCommerceCucumberAutomation:79 - ************* Opening URL  *****************
+2021-08-08 18:41:35,714  INFO [main] eCommerceCucumberAutomation:86 - ************* Navigating to Signin page *****************
+2021-08-08 18:41:48,477  INFO [main] eCommerceCucumberAutomation:92 - ************* Providing emailId and password *****************
+2021-08-08 18:41:48,804  INFO [main] eCommerceCucumberAutomation:99 - ************* Clicking on Signin *****************
+2021-08-08 18:41:55,578  INFO [main] eCommerceCucumberAutomation:114 - ************* Login Passed *****************
+2021-08-08 18:41:55,594  INFO [main] eCommerceCucumberAutomation:62 - ************* Signout application *****************
+2021-08-08 18:42:00,612  INFO [main] eCommerceCucumberAutomation:65 - ************* Closing Browser *****************
+2021-08-08 18:43:13,375  INFO [main] eCommerceCucumberAutomation:73 - ************* Launching Browser *****************
+2021-08-08 18:43:13,399  INFO [main] eCommerceCucumberAutomation:79 - ************* Opening URL  *****************
+2021-08-08 18:43:23,862  INFO [main] eCommerceCucumberAutomation:86 - ************* Navigating to Signin page *****************
+2021-08-08 18:43:25,967  INFO [main] eCommerceCucumberAutomation:92 - ************* Providing emailId and password *****************
+2021-08-08 18:43:26,309  INFO [main] eCommerceCucumberAutomation:99 - ************* Clicking on Signin *****************
+2021-08-08 18:43:28,479  INFO [main] eCommerceCucumberAutomation:114 - ************* Login Passed *****************
+2021-08-08 18:43:28,495  INFO [main] eCommerceCucumberAutomation:62 - ************* Signout application *****************
+2021-08-08 18:43:31,154  INFO [main] eCommerceCucumberAutomation:65 - ************* Closing Browser *****************
+2021-08-08 18:49:06,365  INFO [main] eCommerceCucumberAutomation:73 - ************* Launching Browser *****************
+2021-08-08 18:49:06,396  INFO [main] eCommerceCucumberAutomation:79 - ************* Opening URL  *****************
+2021-08-08 18:49:28,699  INFO [main] eCommerceCucumberAutomation:86 - ************* Navigating to Signin page *****************
+2021-08-08 18:49:33,086  INFO [main] eCommerceCucumberAutomation:92 - ************* Providing emailId and password *****************
+2021-08-08 18:49:33,396  INFO [main] eCommerceCucumberAutomation:99 - ************* Clicking on Signin *****************
+2021-08-08 18:49:36,640  INFO [main] eCommerceCucumberAutomation:114 - ************* Login Passed *****************
+2021-08-08 18:49:36,656  INFO [main] eCommerceCucumberAutomation:62 - ************* Signout application *****************
+2021-08-08 18:49:40,229  INFO [main] eCommerceCucumberAutomation:65 - ************* Closing Browser *****************
+2021-08-08 19:06:14,202  INFO [main] eCommerceCucumberAutomation:73 - ************* Launching Browser *****************
+2021-08-08 19:06:14,228  INFO [main] eCommerceCucumberAutomation:79 - ************* Opening URL  *****************
+2021-08-08 19:06:25,449  INFO [main] eCommerceCucumberAutomation:86 - ************* Navigating to Signin page *****************
+2021-08-08 19:06:28,799  INFO [main] eCommerceCucumberAutomation:92 - ************* Providing emailId and password *****************
+2021-08-08 19:06:29,120  INFO [main] eCommerceCucumberAutomation:99 - ************* Clicking on Signin *****************
+2021-08-08 19:06:31,859  INFO [main] eCommerceCucumberAutomation:114 - ************* Login Passed *****************
+2021-08-08 19:06:31,869  INFO [main] eCommerceCucumberAutomation:62 - ************* Signout application *****************
+2021-08-08 19:06:34,483  INFO [main] eCommerceCucumberAutomation:65 - ************* Closing Browser *****************
+2021-08-08 19:06:36,800  INFO [main] eCommerceCucumberAutomation:73 - ************* Launching Browser *****************
+2021-08-08 19:06:36,802  INFO [main] eCommerceCucumberAutomation:79 - ************* Opening URL  *****************
+2021-08-08 19:06:54,169  INFO [main] eCommerceCucumberAutomation:86 - ************* Navigating to Signin page *****************
+2021-08-08 19:06:56,850  INFO [main] eCommerceCucumberAutomation:92 - ************* Providing emailId and password *****************
+2021-08-08 19:06:57,146  INFO [main] eCommerceCucumberAutomation:99 - ************* Clicking on Signin *****************
+2021-08-08 19:06:59,499  INFO [main] eCommerceCucumberAutomation:114 - ************* Login Passed *****************
+2021-08-08 19:06:59,506  INFO [main] eCommerceCucumberAutomation:62 - ************* Signout application *****************
+2021-08-08 19:07:02,188  INFO [main] eCommerceCucumberAutomation:65 - ************* Closing Browser *****************
+2021-08-08 20:37:25,442  INFO [main] eCommerceCucumberAutomation:74 - ************* Launching Browser *****************
+2021-08-08 20:37:25,466  INFO [main] eCommerceCucumberAutomation:80 - ************* Opening URL  *****************
+2021-08-08 20:37:35,674  INFO [main] eCommerceCucumberAutomation:87 - ************* Navigating to Signin page *****************
+2021-08-08 20:37:40,560  INFO [main] eCommerceCucumberAutomation:93 - ************* Providing emailId and password *****************
+2021-08-08 20:37:40,929  INFO [main] eCommerceCucumberAutomation:100 - ************* Clicking on Signin *****************
+2021-08-08 20:37:43,526  INFO [main] eCommerceCucumberAutomation:115 - ************* Login Passed *****************
+2021-08-08 20:37:43,541  INFO [main] eCommerceCucumberAutomation:63 - ************* Signout application *****************
+2021-08-08 20:37:47,242  INFO [main] eCommerceCucumberAutomation:66 - ************* Closing Browser *****************
+2021-08-08 20:46:57,205  INFO [main] eCommerceCucumberAutomation:74 - ************* Launching Browser *****************
+2021-08-08 20:46:57,239  INFO [main] eCommerceCucumberAutomation:80 - ************* Opening URL  *****************
+2021-08-08 20:47:09,886  INFO [main] eCommerceCucumberAutomation:87 - ************* Navigating to Signin page *****************
+2021-08-08 20:47:12,492  INFO [main] eCommerceCucumberAutomation:93 - ************* Providing emailId and password *****************
+2021-08-08 20:47:12,814  INFO [main] eCommerceCucumberAutomation:100 - ************* Clicking on Signin *****************
+2021-08-08 20:47:14,810  INFO [main] eCommerceCucumberAutomation:115 - ************* Login Passed *****************
+2021-08-08 20:47:14,825  INFO [main] eCommerceCucumberAutomation:63 - ************* Signout application *****************
+2021-08-08 20:47:20,022  INFO [main] eCommerceCucumberAutomation:66 - ************* Closing Browser *****************
+2021-08-08 20:54:36,999  INFO [main] eCommerceCucumberAutomation:74 - ************* Launching Browser *****************
+2021-08-08 20:54:37,028  INFO [main] eCommerceCucumberAutomation:80 - ************* Opening URL  *****************
+2021-08-08 20:54:50,593  INFO [main] eCommerceCucumberAutomation:87 - ************* Navigating to Signin page *****************
+2021-08-08 20:54:53,737  INFO [main] eCommerceCucumberAutomation:93 - ************* Providing emailId and password *****************
+2021-08-08 20:54:54,090  INFO [main] eCommerceCucumberAutomation:100 - ************* Clicking on Signin *****************
+2021-08-08 20:54:56,186  INFO [main] eCommerceCucumberAutomation:115 - ************* Login Passed *****************
+2021-08-08 20:54:59,217  INFO [main] eCommerceCucumberAutomation:63 - ************* Signout application *****************
+2021-08-08 20:55:01,777  INFO [main] eCommerceCucumberAutomation:66 - ************* Closing Browser *****************
+2021-08-08 20:58:24,756  INFO [main] eCommerceCucumberAutomation:74 - ************* Launching Browser *****************
+2021-08-08 20:58:24,797  INFO [main] eCommerceCucumberAutomation:80 - ************* Opening URL  *****************
+2021-08-08 20:58:41,000  INFO [main] eCommerceCucumberAutomation:87 - ************* Navigating to Signin page *****************
+2021-08-08 20:58:43,591  INFO [main] eCommerceCucumberAutomation:93 - ************* Providing emailId and password *****************
+2021-08-08 20:58:43,945  INFO [main] eCommerceCucumberAutomation:100 - ************* Clicking on Signin *****************
+2021-08-08 20:58:46,684  INFO [main] eCommerceCucumberAutomation:115 - ************* Login Passed *****************
+2021-08-08 20:58:49,720  INFO [main] eCommerceCucumberAutomation:63 - ************* Signout application *****************
+2021-08-08 20:58:53,090  INFO [main] eCommerceCucumberAutomation:66 - ************* Closing Browser *****************
+2021-08-08 21:00:13,205  INFO [main] eCommerceCucumberAutomation:74 - ************* Launching Browser *****************
+2021-08-08 21:00:13,239  INFO [main] eCommerceCucumberAutomation:80 - ************* Opening URL  *****************
+2021-08-08 21:00:25,335  INFO [main] eCommerceCucumberAutomation:87 - ************* Navigating to Signin page *****************
+2021-08-08 21:00:27,749  INFO [main] eCommerceCucumberAutomation:93 - ************* Providing emailId and password *****************
+2021-08-08 21:00:28,087  INFO [main] eCommerceCucumberAutomation:100 - ************* Clicking on Signin *****************
+2021-08-08 22:41:54,874  INFO [main] eCommerceCucumberAutomation:74 - ************* Launching Browser *****************
+2021-08-08 22:41:54,907  INFO [main] eCommerceCucumberAutomation:80 - ************* Opening URL  *****************
+2021-08-08 22:42:03,474  INFO [main] eCommerceCucumberAutomation:87 - ************* Navigating to Signin page *****************
+2021-08-08 22:42:10,251  INFO [main] eCommerceCucumberAutomation:93 - ************* Providing emailId and password *****************
+2021-08-08 22:42:10,590  INFO [main] eCommerceCucumberAutomation:100 - ************* Clicking on Signin *****************
+2021-08-08 22:42:30,741  INFO [main] eCommerceCucumberAutomation:115 - ************* Login Passed *****************
+2021-08-08 22:46:20,957  INFO [main] eCommerceCucumberAutomation:74 - ************* Launching Browser *****************
+2021-08-08 22:46:20,984  INFO [main] eCommerceCucumberAutomation:80 - ************* Opening URL  *****************
+2021-08-08 22:46:40,087  INFO [main] eCommerceCucumberAutomation:87 - ************* Navigating to Signin page *****************
+2021-08-08 22:46:43,891  INFO [main] eCommerceCucumberAutomation:93 - ************* Providing emailId and password *****************
+2021-08-08 22:46:44,195  INFO [main] eCommerceCucumberAutomation:100 - ************* Clicking on Signin *****************
+2021-08-08 22:46:46,205  INFO [main] eCommerceCucumberAutomation:115 - ************* Login Passed *****************
+2021-08-08 22:46:49,229  INFO [main] eCommerceCucumberAutomation:63 - ************* Signout application *****************
+2021-08-08 22:47:01,806  INFO [main] eCommerceCucumberAutomation:66 - ************* Closing Browser *****************
+2021-08-08 22:47:03,671  INFO [main] eCommerceCucumberAutomation:74 - ************* Launching Browser *****************
+2021-08-08 22:47:03,673  INFO [main] eCommerceCucumberAutomation:80 - ************* Opening URL  *****************
+2021-08-08 22:47:16,860  INFO [main] eCommerceCucumberAutomation:87 - ************* Navigating to Signin page *****************
+2021-08-08 22:47:22,622  INFO [main] eCommerceCucumberAutomation:93 - ************* Providing emailId and password *****************
+2021-08-08 22:47:22,902  INFO [main] eCommerceCucumberAutomation:100 - ************* Clicking on Signin *****************
+2021-08-08 22:47:29,042  INFO [main] eCommerceCucumberAutomation:115 - ************* Login Passed *****************
+2021-08-08 22:47:32,064  INFO [main] eCommerceCucumberAutomation:63 - ************* Signout application *****************
+2021-08-08 22:47:38,746  INFO [main] eCommerceCucumberAutomation:66 - ************* Closing Browser *****************
+2021-08-08 22:53:21,427  INFO [main] eCommerceCucumberAutomation:75 - ************* Launching Browser *****************
+2021-08-08 22:53:21,447  INFO [main] eCommerceCucumberAutomation:81 - ************* Opening URL  *****************
+2021-08-08 22:53:50,435  INFO [main] eCommerceCucumberAutomation:88 - ************* Navigating to Signin page *****************
+2021-08-08 22:53:55,435  INFO [main] eCommerceCucumberAutomation:94 - ************* Providing emailId and password *****************
+2021-08-08 22:53:55,739  INFO [main] eCommerceCucumberAutomation:101 - ************* Clicking on Signin *****************
+2021-08-08 22:54:00,103  INFO [main] eCommerceCucumberAutomation:116 - ************* Login Passed *****************
+2021-08-08 22:54:11,107  INFO [main] eCommerceCucumberAutomation:148 - ************* Navigation to Personal Information page Passed *****************
+2021-08-08 22:54:11,169  INFO [main] eCommerceCucumberAutomation:64 - ************* Signout application *****************
+2021-08-08 22:54:16,374  INFO [main] eCommerceCucumberAutomation:67 - ************* Closing Browser *****************
+2021-08-08 22:55:43,393  INFO [main] eCommerceCucumberAutomation:75 - ************* Launching Browser *****************
+2021-08-08 22:55:43,426  INFO [main] eCommerceCucumberAutomation:81 - ************* Opening URL  *****************
+2021-08-08 22:56:03,179  INFO [main] eCommerceCucumberAutomation:88 - ************* Navigating to Signin page *****************
+2021-08-08 22:56:08,141  INFO [main] eCommerceCucumberAutomation:94 - ************* Providing emailId and password *****************
+2021-08-08 22:56:08,500  INFO [main] eCommerceCucumberAutomation:101 - ************* Clicking on Signin *****************
+2021-08-08 22:56:11,210  INFO [main] eCommerceCucumberAutomation:116 - ************* Login Passed *****************
+2021-08-08 22:56:19,533  INFO [main] eCommerceCucumberAutomation:148 - ************* Navigation to Personal Information page Passed *****************
+2021-08-08 22:56:21,206  INFO [main] eCommerceCucumberAutomation:173 - ************* Personal Information is updated successfully *****************
+2021-08-08 22:56:21,244  INFO [main] eCommerceCucumberAutomation:179 - ************* Personal Information page is showing some errors! *****************
+2021-08-08 22:56:21,263  INFO [main] eCommerceCucumberAutomation:64 - ************* Signout application *****************
+2021-08-08 22:56:24,240  INFO [main] eCommerceCucumberAutomation:67 - ************* Closing Browser *****************
+2021-08-08 23:06:01,654  INFO [main] eCommerceCucumberAutomation:75 - ************* Launching Browser *****************
+2021-08-08 23:06:01,677  INFO [main] eCommerceCucumberAutomation:81 - ************* Opening URL  *****************
+2021-08-08 23:06:14,441  INFO [main] eCommerceCucumberAutomation:88 - ************* Navigating to Signin page *****************
+2021-08-08 23:06:17,631  INFO [main] eCommerceCucumberAutomation:94 - ************* Providing emailId and password *****************
+2021-08-08 23:06:17,938  INFO [main] eCommerceCucumberAutomation:101 - ************* Clicking on Signin *****************
+2021-08-08 23:06:20,542  INFO [main] eCommerceCucumberAutomation:116 - ************* Login Passed *****************
+2021-08-08 23:06:31,751  INFO [main] eCommerceCucumberAutomation:148 - ************* Navigation to Personal Information page Passed *****************
+2021-08-08 23:06:33,778  INFO [main] eCommerceCucumberAutomation:181 - ************* Personal Information is updated successfully *****************
+2021-08-08 23:06:33,801  INFO [main] eCommerceCucumberAutomation:64 - ************* Signout application *****************
+2021-08-08 23:06:38,044  INFO [main] eCommerceCucumberAutomation:67 - ************* Closing Browser *****************
+2021-08-08 23:42:55,116  INFO [main] eCommerceCucumberAutomation:76 - ************* Launching Browser *****************
+2021-08-08 23:42:55,142  INFO [main] eCommerceCucumberAutomation:82 - ************* Opening URL  *****************
+2021-08-08 23:43:08,150  INFO [main] eCommerceCucumberAutomation:89 - ************* Navigating to Signin page *****************
+2021-08-08 23:43:11,586  INFO [main] eCommerceCucumberAutomation:95 - ************* Providing emailId and password *****************
+2021-08-08 23:43:11,913  INFO [main] eCommerceCucumberAutomation:102 - ************* Clicking on Signin *****************
+2021-08-08 23:43:13,785  INFO [main] eCommerceCucumberAutomation:117 - ************* Login Passed *****************
+2021-08-08 23:43:22,306  INFO [main] eCommerceCucumberAutomation:65 - ************* Signout application *****************
+2021-08-08 23:53:43,761  INFO [main] eCommerceCucumberAutomation:76 - ************* Launching Browser *****************
+2021-08-08 23:53:43,785  INFO [main] eCommerceCucumberAutomation:82 - ************* Opening URL  *****************
+2021-08-08 23:53:57,288  INFO [main] eCommerceCucumberAutomation:89 - ************* Navigating to Signin page *****************
+2021-08-08 23:53:59,409  INFO [main] eCommerceCucumberAutomation:95 - ************* Providing emailId and password *****************
+2021-08-08 23:53:59,737  INFO [main] eCommerceCucumberAutomation:102 - ************* Clicking on Signin *****************
+2021-08-08 23:54:02,349  INFO [main] eCommerceCucumberAutomation:117 - ************* Login Passed *****************
+2021-08-08 23:54:12,728  INFO [main] eCommerceCucumberAutomation:65 - ************* Signout application *****************
+2021-08-08 23:54:14,304  INFO [main] eCommerceCucumberAutomation:68 - ************* Closing Browser *****************
+2021-08-08 23:59:11,994  INFO [main] eCommerceCucumberAutomation:76 - ************* Launching Browser *****************
+2021-08-08 23:59:12,021  INFO [main] eCommerceCucumberAutomation:82 - ************* Opening URL  *****************
+2021-08-08 23:59:20,100  INFO [main] eCommerceCucumberAutomation:89 - ************* Navigating to Signin page *****************
+2021-08-08 23:59:24,127  INFO [main] eCommerceCucumberAutomation:95 - ************* Providing emailId and password *****************
+2021-08-08 23:59:24,437  INFO [main] eCommerceCucumberAutomation:102 - ************* Clicking on Signin *****************
+2021-08-08 23:59:26,563  INFO [main] eCommerceCucumberAutomation:117 - ************* Login Passed *****************
+2021-08-08 23:59:41,230  INFO [main] eCommerceCucumberAutomation:65 - ************* Signout application *****************
+2021-08-08 23:59:42,756  INFO [main] eCommerceCucumberAutomation:68 - ************* Closing Browser *****************
